@@ -24,11 +24,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
+global.owner = ['6282143349069'] //ur owner number
+global.ownername = "Owner MiMi-BotZ"
+global.ytname = "Ga Pnya" //ur yt chanel name
 global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.location = "Indonesia, Jawa Timur, Jombang" //ur location
 
 //bot bombdy
 global.botname = "MiMi-BotZ" //ur bot name
