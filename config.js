@@ -31,19 +31,19 @@ global.socialm = "GitHub: Warikrr" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "MiMi-BotZ" //ur bot name
+global.websitex = "wa.me/6282143349069" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.author = "MiMi-BotZ"
 global.themeemoji = "📀"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz2 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKASl"
+global.ownertag = ['Owner MiMi-BotZ'] //ur owner tag
+global.ownernummenu = ['6282143349069'] //ur owner number in menu and all
+global.watermark = "MiMi-BotZ" //ur watermark
+global.botscript = "Chat owner"
+global.linkz1 = "https://Gr6yuCbSGTI"
+global.linkz2 = "https://chahrORm1sPdq6cRKASl"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
